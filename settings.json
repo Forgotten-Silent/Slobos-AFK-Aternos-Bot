@@ -31,10 +31,12 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I am just a BOT",
+        "Its too tiring to be online for so long!!",
         "JOY is gay",
-        "Hello World!"
-      ]
+        "StraightBro is not straight",
+        "Hello World!",
+        "I got no GF so I just talk to you guys"
+        ]
     },
     "chat-log": true,
     "auto-reconnect": true,
@@ -42,7 +44,7 @@
     "max-reconnect-delay": 120000
   },
   "movement": {
-    "enabled": false,
+    "enabled": true,
     "circle-walk": {
       "enabled": true,
       "radius": 4,
